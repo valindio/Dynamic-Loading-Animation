@@ -1,1 +1,6 @@
-dynamic loading animation
+# Dynamic Loading Animation
+
+Build with :
+
+- HTML
+- CSS
